@@ -1,11 +1,15 @@
 <h2>Login e Registro Users</h2>
 <h2>Comandos no VScode:</h2>
+<ul>
+<li>git clone https://github.com/mauro-roque/back-end-register-login-simples</li>
+<li>cd projeto-node</li>
+<li>npm install</li>
+<li>npx nodemon controllers/loginRegisterUserController.js</li>
+</ul>
 
-git clone https://github.com/mauro-roque/Cria-o-de-site-automatico
-cd projeto-node
-npm install
-npx nodemon controllers/controllers.js
-Rodar no Postman o projeto contem 8 rotas:
-Extrair o arquivo pi.postman_collection.rar
-No Postman clique em import e selecione o arquivo .json
-Apos fazer isso vai conter uma Collection com 8 rotas ja nomeadas
+<h3>Rodar no Postman o projeto contem 5 rotas:</h3>
+<ul>
+  <li>Extrair o arquivo pi-users-login-register.postman_collection</li>
+  <li>No Postman clique em import e selecione o arquivo .json</li>
+  <li>Apos fazer isso vai conter uma Collection com 5 rotas ja nomeadas</li>
+</ul>
